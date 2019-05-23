@@ -1,0 +1,21 @@
+= Drinking from the Stream (with Kotlin!): How to use messaging platforms for scalability & performance
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This multi-repo accompanies my session titled *"Drinking from the Stream: How to use messaging platforms for scalability & performance"* and includes all code written within the session *as done in Kotlin* and potentially more...star+watch this repo for updates!
+
+NOTE: If you're looking for the Java code that frequently accompanies this same session, please visit https://github.com/mkheck/drinking-from-the-stream[Drinking from the Stream (Java)]
+
+== Related repository
+
+https://github.com/mkheck/LocalMessaging[Scripts I use to create, configure, & run RabbitMQ & Apache Kafka locally in support of this session]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/drinking-from-the-stream-how-to-use-messaging-platforms-for-scalability-and-performance["Drinking from the Stream: How to use messaging platforms for scalability & performance" presentation]
